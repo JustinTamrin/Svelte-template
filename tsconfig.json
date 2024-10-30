@@ -10,7 +10,12 @@
     "sourceMap": true,
     "strict": true,
     "types": ["vitest/globals"] // allows to skip import of test functions like `describe`, `it`, `expect`, etc.
-  }
+  },
+  "exclude": [
+    "c:/Users/Justin Tamrin/OneDrive - Taylor's Education/Desktop/svelte-template/src/routes/(marketing)/login/sign_up/+page.svelte",
+    "c:/Users/Justin Tamrin/OneDrive - Taylor's Education/Desktop/svelte-template/src/routes/(marketing)/login/sign_in/+page.svelte",
+    "c:/Users/Justin Tamrin/OneDrive - Taylor's Education/Desktop/svelte-template/src/routes/(marketing)/login/forgot_password/+page.svelte"
+  ]
   // Path aliases are handled by https://kit.svelte.dev/docs/configuration#alias and https://kit.svelte.dev/docs/configuration#files
   //
   // If you want to overwrite includes/excludes, make sure to copy over the relevant includes/excludes

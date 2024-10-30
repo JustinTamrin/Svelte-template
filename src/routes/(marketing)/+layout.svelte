@@ -15,9 +15,9 @@
           class="border border-primary">★ us on Github</a
         >
       </li>
-      <li class="md:mx-2"><a href="/blog">Blog</a></li>
-      <li class="md:mx-2"><a href="/pricing">Pricing</a></li>
-      <li class="md:mx-2"><a href="/account">Account</a></li>
+      <li class="md:mx-2"><a href="/">Blog</a></li>
+      <li class="md:mx-2"><a href="/">Pricing</a></li>
+      <li class="md:mx-2"><a href="/">Account</a></li>
       <li class="md:mx-0">
         <a href="/search">
           <svg
@@ -85,8 +85,8 @@
     <nav>
       <span class="footer-title opacity-80">Explore</span>
       <a class="link link-hover mb-1" href="/">Overview</a>
-      <a class="link link-hover my-1" href="/pricing">Pricing</a>
-      <a class="link link-hover my-1" href="/blog">Blog</a>
+      <a class="link link-hover my-1" href="/">Pricing</a>
+      <a class="link link-hover my-1" href="/">Blog</a>
       <a class="link link-hover my-1" href="/contact_us">Contact Us</a>
       <a
         class="link link-hover my-1"

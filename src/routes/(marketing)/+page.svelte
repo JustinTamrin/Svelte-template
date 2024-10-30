@@ -54,7 +54,7 @@
     },
     {
       name: "Pricing Page",
-      link: "/pricing",
+      link: "/",
       description:
         "Customizable and fast pricing page, integrated into the billing portal.",
       svgContent: `<path d="M12 6V18" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
@@ -63,7 +63,7 @@
     },
     {
       name: "Blog",
-      link: "/blog",
+      link: "/",
       description:
         "Blog engine with rich formatting, RSS and SEO optimization.",
       svgContent: `<path d="M3 10C3 6.22876 3 4.34315 4.17157 3.17157C5.34315 2 7.22876 2 11 2H13C16.7712 2 18.6569 2 19.8284 3.17157C21 4.34315 21 6.22876 21 10V14C21 17.7712 21 19.6569 19.8284 20.8284C18.6569 22 16.7712 22 13 22H11C7.22876 22 5.34315 22 4.17157 20.8284C3 19.6569 3 17.7712 3 14V10Z" stroke="#1C274C" stroke-width="1.5"/>
@@ -72,7 +72,7 @@
     },
     {
       name: "Subscriptions",
-      link: "/pricing",
+      link: "/",
       description: "User friendly subscriptions powered by Stripe Checkout.",
       svgContent: `<path d="M2 12C2 8.22876 2 6.34315 3.17157 5.17157C4.34315 4 6.22876 4 10 4H14C17.7712 4 19.6569 4 20.8284 5.17157C22 6.34315 22 8.22876 22 12C22 15.7712 22 17.6569 20.8284 18.8284C19.6569 20 17.7712 20 14 20H10C6.22876 20 4.34315 20 3.17157 18.8284C2 17.6569 2 15.7712 2 12Z" stroke="#1C274C" stroke-width="1.5"/>
 <path d="M10 16.5H6" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
@@ -91,7 +91,7 @@
     },
     {
       name: "User Dashboard",
-      link: "/account/settings",
+      link: "/",
       description:
         "User profile, user settings, update email/password, billing, and more.",
       svgContent: `<circle cx="12" cy="12" r="3" stroke="#1C274C" stroke-width="1.5"/>
@@ -109,7 +109,7 @@
     },
     {
       name: "Search",
-      link: "/search",
+      link: "/",
       description: "Lighting fast site search, without a backend.",
       svgContent: `
 <path d="M22 13V12C22 8.22876 22 6.34315 20.8284 5.17157C19.6569 4 17.7712 4 14 4H10C6.22876 4 4.34315 4 3.17157 5.17157C2 6.34315 2 8.22876 2 12C2 15.7712 2 17.6569 3.17157 18.8284C4.34315 20 6.22876 20 10 20H13" stroke="#1C274C" stroke-width="1.5" stroke-linecap="round"/>
