@@ -36,7 +36,7 @@
     },
     {
       name: "User Auth",
-      link: "/login",
+      link: "/",
       description:
         "Sign up, sign out, forgot password, email verification, and oAuth. Powered by Supabase Auth.",
       svgContent: `<path
@@ -82,7 +82,7 @@
     },
     {
       name: "Billing Portal",
-      link: "/account/billing",
+      link: "/",
       description:
         "Self-serve portal for updating card, receipts, upgrades, downgrades and more.",
       svgContent: `<path d="M7.5 18C8.32843 18 9 18.6716 9 19.5C9 20.3284 8.32843 21 7.5 21C6.67157 21 6 20.3284 6 19.5C6 18.6716 6.67157 18 7.5 18Z" stroke="#1C274C" stroke-width="1.5"/>
